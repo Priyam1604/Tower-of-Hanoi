@@ -1,2 +1,1 @@
-# Pure CSS Tower of Hanoi
-
+# Tower of Hanoi game with CSS
